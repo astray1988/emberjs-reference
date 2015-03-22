@@ -1,16 +1,10 @@
-#Emberjs资料索引
+#Emberjs Reference
 ___
 
-## 中文资料
-- [Emberjs教程指南](http://www.emberjs.cn/guides/)
-
-- 《30天学习30种新技术》系列中的[Day19: EmberJS 入门指南](http://segmentfault.com/a/1190000000365519)
-
-
-## 英文资料
+## Tutorials 
 
 - [Ember.js Guides](http://emberjs.com/guides/getting-started/)
- or 从[这里](https://leanpub.com/emberjsguides/read)获取
+ or you can get from [here](https://leanpub.com/emberjsguides/read)
 
 - [Getting Started with Ember.js](http://twbrandt.github.io/2013/02/11/Ember-Quick_Start_Guide/)  by Tom Brandt
 
@@ -21,7 +15,7 @@ ___
 - [Heretical Guide To Ember JS](http://gilesbowkett.blogspot.com/2013/06/heretical-guide-to-ember-js.html) by GILES BOWKETT
 
 
-## 书籍
+## Books
 - [Ember.js in Action](http://www.amazon.com/Ember-js-Action-Joachim-Haagen-Skeie/dp/1617291455) by Joachim Haagen Skeie
 
 - [Mastering Ember.js](http://www.amazon.com/Mastering-Ember-js-Mitchel-Kelonye/dp/1783981989/ref=pd_bxgy_b_text_y) by Mitchel Kelonye
@@ -30,21 +24,21 @@ ___
 
 - [The Ember.js Way (Developer's Library)](http://www.amazon.com/Ember-js-Way-Developers-Library/dp/0321994531/ref=sr_1_8?s=books&ie=UTF8&qid=1427061463&sr=1-8&keywords=emberjs) by Brian Cardarella, Alex Navasardyan
 
-## 视频课程
-- Code School提供的[Warming Up With Ember.js](https://www.codeschool.com/courses/warming-up-with-ember-js) 
+## Courses & Videoes
+- [Warming Up With Ember.js](https://www.codeschool.com/courses/warming-up-with-ember-js) by Code School
 
-- Pluralsight提供的[Ember.js 
-Fundamentals](http://www.pluralsight.com/courses/emberjs-fundamentals)
+- [Ember.js 
+Fundamentals](http://www.pluralsight.com/courses/emberjs-fundamentals) by Pluralsight
 
-- Tuts 提供的[Ember for Beginners](http://code.tutsplus.com/courses/ember-for-beginners)
+- [Ember for Beginners](http://code.tutsplus.com/courses/ember-for-beginners) by Tuts
 
-- lynda提供的[Up and Running with Ember.js](http://www.lynda.com/Emberjs-tutorials/Up-Running-Emberjs/178116-2.html)
+- [Up and Running with Ember.js](http://www.lynda.com/Emberjs-tutorials/Up-Running-Emberjs/178116-2.html) by Lynda
 
-- ember101提供的[Ember 101 Video Series](http://ember101.com/videos/001-intro-and-binding-data-to-templates)
+- [Ember 101 Video Series](http://ember101.com/videos/001-intro-and-binding-data-to-templates) by ember101
 
-## 其他资源 Github,Forum,Blogs
+## Github,Forum,Blogs
 - [EmberWatch](http://emberwatch.com/)
 - [Robin Ward’s blog AKA Evil Trout](http://eviltrout.com/)
-- [nerdyworm](http://nerdyworm.com/) 与他的[github](https://github.com/nerdyworm)
-- airpair提供的[ember.js posts](https://www.airpair.com/posts/tag/ember.js)
+- [nerdyworm](http://nerdyworm.com/) and his [github](https://github.com/nerdyworm)
+- [ember.js posts](https://www.airpair.com/posts/tag/ember.js) by Airpair
 
