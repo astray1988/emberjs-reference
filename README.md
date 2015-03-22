@@ -22,7 +22,13 @@ ___
 
 
 ## 书籍
-- [Ember.js in Action](http://www.amazon.com/Ember-js-Action-Joachim-Haagen-Skeie/dp/1617291455)
+- [Ember.js in Action](http://www.amazon.com/Ember-js-Action-Joachim-Haagen-Skeie/dp/1617291455) by Joachim Haagen Skeie
+
+- [Mastering Ember.js](http://www.amazon.com/Mastering-Ember-js-Mitchel-Kelonye/dp/1783981989/ref=pd_bxgy_b_text_y) by Mitchel Kelonye
+
+- [Developing an Ember.js Edge](http://www.amazon.com/Developing-Ember-js-Edge-Jamie-White-ebook/dp/B00JETLW32/ref=sr_1_9?s=books&ie=UTF8&qid=1427061463&sr=1-9&keywords=emberjs) by Jamie White, Matthew Beale, Christopher Sansone, Wesley Workman, Bradley Priest
+
+- [The Ember.js Way (Developer's Library)](http://www.amazon.com/Ember-js-Way-Developers-Library/dp/0321994531/ref=sr_1_8?s=books&ie=UTF8&qid=1427061463&sr=1-8&keywords=emberjs) by Brian Cardarella, Alex Navasardyan
 
 ## 视频课程
 - Code School提供的[Warming Up With Ember.js](https://www.codeschool.com/courses/warming-up-with-ember-js) 
