@@ -24,6 +24,7 @@ ___
 
 - [The Ember.js Way (Developer's Library)](http://www.amazon.com/Ember-js-Way-Developers-Library/dp/0321994531/ref=sr_1_8?s=books&ie=UTF8&qid=1427061463&sr=1-8&keywords=emberjs) by Brian Cardarella, Alex Navasardyan
 
+- [ember-cli-101](https://leanpub.com/ember-cli-101)
 ## Courses & Videoes
 - [Warming Up With Ember.js](https://www.codeschool.com/courses/warming-up-with-ember-js) by Code School
 
@@ -36,9 +37,14 @@ Fundamentals](http://www.pluralsight.com/courses/emberjs-fundamentals) by Plural
 
 - [Ember 101 Video Series](http://ember101.com/videos/001-intro-and-binding-data-to-templates) by ember101
 
+## EmberConf
+- [EmberConf 2015](https://github.com/poteto/emberconf-2015)
+
 ## Github,Forum,Blogs
 - [EmberWatch](http://emberwatch.com/)
 - [Robin Ward’s blog AKA Evil Trout](http://eviltrout.com/)
 - [nerdyworm](http://nerdyworm.com/) and his [github](https://github.com/nerdyworm)
 - [ember.js posts](https://www.airpair.com/posts/tag/ember.js) by Airpair
+- [The Road to Ember 2.0](https://github.com/emberjs/rfcs/pull/15)
+
 
