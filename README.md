@@ -6,6 +6,8 @@ ___
 - [Ember.js Guides](http://emberjs.com/guides/getting-started/)
  or you can get from [here](https://leanpub.com/emberjsguides/read)
 
+- [Ember CLI](http://www.ember-cli.com/) 
+
 - [Getting Started with Ember.js](http://twbrandt.github.io/2013/02/11/Ember-Quick_Start_Guide/)  by Tom Brandt
 
 - [Ember.js Code-Walkthrough (Video)](http://www.lukaszielinski.de/blog/posts/2013/02/23/ember-dot-js-code-walkthrough-video/)- Another Programming Blog
