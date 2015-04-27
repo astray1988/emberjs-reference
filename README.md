@@ -48,5 +48,6 @@ Fundamentals](http://www.pluralsight.com/courses/emberjs-fundamentals) by Plural
 - [nerdyworm](http://nerdyworm.com/) and his [github](https://github.com/nerdyworm)
 - [ember.js posts](https://www.airpair.com/posts/tag/ember.js) by Airpair
 - [The Road to Ember 2.0](https://github.com/emberjs/rfcs/pull/15)
+- [Ember JSBin Examples on Gist](https://gist.github.com/rwjblue/8816372)
 
 
